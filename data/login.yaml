@@ -1,0 +1,6 @@
+login:
+  path: /api/users/loginuser
+  data:
+    username: wanglisha
+    password: 123456
+  right: 200

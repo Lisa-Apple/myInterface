@@ -1,0 +1,6 @@
+firstpage:
+  path: /api/products/material/page
+  data:
+    None
+  right: 200
+  msg: 请求成功。
